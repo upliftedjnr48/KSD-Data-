@@ -12,6 +12,8 @@ STEP THREE: for consistency, I started all the column names with capital letter,
 lowercase and leaving the uppercase to be they was.
 STEP FOUR: I converted the data category of the city column to “City”.
 STEP FIVE: And finally I created a revenue column by multiplying quantity by price.
+
+
 QUESTION TWO(F): What hours are the sales peak hour
 i.
 11:25:00 and the revenue generated at that hour is $1,757.00K
@@ -23,6 +25,8 @@ The relationship between a customer’s gross income and preferred type of payme
 customers with higher incomes might be more inclined to use credit card for conveniences, rewards, and 
 flexibility. On the other hand, individuals with lower incomes may prefer cash or debit cards to manage their 
 spending more easily. It’s a complex interplay influenced by personal financial habits, lifestyle and preferences.
+
+
 QUESTION 3(I) INSIGHTS
 1. The data set shows that total amount for the profit is $107.00K, total units sold is 2345 and total revenue 
 generated is $129.00K.
@@ -53,6 +57,8 @@ increase in the price and also decreasing lines which indicate a downward trend.
 The inside bar pattern: The bar’s high price is lower than the previous bar’s price. And also the lower price is 
 higher than the low price of the previous bar. This shows the market is consolidating and may not have strong 
 trends either in direction.
+
+
 QUESTION 4: REFLECTION
 Data cleaning and transformation: this is more of filtering out dirt from data, giving it a better look and a more 
 convenient way to visualize the data. Data transformation is very necessary because the beauty of your 
